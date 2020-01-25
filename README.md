@@ -1,7 +1,7 @@
 # tf2_nb_training
 ## Aim
 * training follows
-  *tensorflow v2 
+  * tensorflow v2 
   * google colaboratory 
 
 ## Dataset
